@@ -1,1 +1,3 @@
-print("Hello this is my Home Page")
+import streamlit as st
+
+st.title("Welcome to the Home Page")
