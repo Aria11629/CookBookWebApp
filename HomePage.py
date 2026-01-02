@@ -17,6 +17,10 @@ st.markdown("""
         display: none;
     }
     
+      [data-testid="stSidebar"] {
+        background-color: #FFD4E0;  /* Pink color from your banner */
+    }
+    
     .stApp{
         background-color: #fce8ec;
     }
